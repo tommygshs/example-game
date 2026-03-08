@@ -27,8 +27,7 @@ _|_     _|_     _|_     _|_     _|_     _|_     _|_     _|_     _|_     _|_     
      |       |       |       |       |       |       |       |       |       |       |       |       |       |       |     
 ```
 
-##### **github**
-
+### **github**
 [game](https://github.com/nathanielkaiserxyz/example-game)
 
 [signup](https://github.com/signup)
@@ -37,18 +36,29 @@ _|_     _|_     _|_     _|_     _|_     _|_     _|_     _|_     _|_     _|_     
 
 [githubdestopclone](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop?platform=mac)
 
-[]()
-
-##### **godot**
+### **godot**
 [download godot](https://godotengine.org/download/windows/)
 
-[]()
+add project 
 
-##### **github revisited**
+assets
 
-##### **asesprite**
+scenes
+
+scripts
+
+make level 
+
+### **github revisited**
+pull request
+
+### **asesprite**
 pick thing to draw
 [palette](https://lospec.com/palette-list/apollo)
 
-##### **godot again**
-[changingasprite]()
+### **godot again**
+make scene 
+
+instantiate in level
+
+pull request
